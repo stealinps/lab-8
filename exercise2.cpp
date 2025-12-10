@@ -12,6 +12,6 @@ int main(){
   cin >> town1;
   cout << "Enter number for town 2:";
   cin >> town2;
-  distanceT(town1,town2);
+  cout << distanceT(town1,town2);
   return 0;
 }
